@@ -18,8 +18,8 @@
 I am a passionate **Front-End Developer** specializing in **React** and **Next.js**, dedicated to crafting dynamic and visually appealing web solutions.
 
 - 💻 I love clean code and beautiful UI
-- 🌱 Currently learning: more advanced Next.js features and testing tools
-- 🧠 Always exploring new design trends and dev tools
+- 🌱 Currently learning: advanced Next.js features and web performance
+- 🧠 Always curious about new design systems and front-end tools
 
 ---
 
@@ -31,21 +31,22 @@ I am a passionate **Front-End Developer** specializing in **React** and **Next.j
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naglaa77&show_icons=true&theme=react&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=naglaa77&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naglaa77&show_icons=true&theme=radical&count_private=true" alt="Naglaa's GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=naglaa77&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-- React, Next.js, JavaScript (ES6+), HTML, CSS, TAILWIND, SHADCN,STRIPE,REDIS
-- Git & GitHub, Vercel, Figma (for design),
+- **Languages**: JavaScript, HTML, CSS  
+- **Frameworks**: React, Next.js  
+- **Tools**: Git & GitHub, Vercel, Figma
 
 ---
 
-> "Code is not just code. It's your craft, your creativity, and your courage to build something amazing."
+> "Each line of code is a step forward in your journey. Keep building. Keep learning."
