@@ -17,39 +17,29 @@
 
 I am a passionate **Front-End Developer** specializing in **React** and **Next.js**, dedicated to crafting dynamic and visually appealing web solutions.
 
-- 💻 I love clean code and beautiful UI
-- 🌱 Currently learning advanced features of Next.js and testing libraries
-- 🧠 Always exploring new design trends and dev tools
+- 💻 I love clean code and beautiful UI  
+- 🌱 Currently learning advanced features of Next.js and testing libraries  
+- 🧠 Always exploring new design trends and dev tools  
 - 🚀 Open to freelance and collaboration opportunities
 
 ---
 
 ### 🔗 Links
 
-- 🌐 [Portfolio](https://new-pyrocode.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/naglaa-fouz-7b42a214a/)
+- 🌐 [Portfolio](https://new-pyrocode.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naglaa-fouz-7b42a214a/)  
 - 📍 Marseille, France
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naglaa77&show_icons=true&theme=radical&count_private=true" alt="Naglaa's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naglaa77&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-- React / Next.js / JavaScript (ES6+)
-- HTML / CSS / TailwindCSS
-- Git & GitHub
-- Figma (UI/UX design)
+- React / Next.js / JavaScript (ES6+)  
+- HTML / CSS / TailwindCSS  
+- Shadcn UI / Stripe / Redis  
+- Agile Methodologies  
+- Git & GitHub  
+- Figma (UI/UX design)  
 - Vercel (Deployment)
 
 ---
