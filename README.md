@@ -35,32 +35,22 @@ I am a passionate **Front-End Developer** specializing in **React** and **Next.j
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naglaa77&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Naglaa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naglaa77&show_icons=true&theme=radical&count_private=true" alt="Naglaa's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naglaa77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=naglaa77&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🧠 Languages & Activity
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naglaa77&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/naglaa77/naglaa77/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Dark🖤/Light🤍-informational" />
-</p>
+- React / Next.js / JavaScript (ES6+)
+- HTML / CSS / TailwindCSS
+- Git & GitHub
+- Figma (UI/UX design)
+- Vercel (Deployment)
 
 ---
 
