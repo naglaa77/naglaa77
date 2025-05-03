@@ -27,7 +27,7 @@ I am a passionate **Front-End Developer** specializing in **React** and **Next.j
 ### 🔗 Links
 
 - 🌐 [Portfolio](https://new-pyrocode.vercel.app/)
-- 🌐 [Medium](https://medium.com/@naglaafouz4))  
+- 🌐 [Medium](https://medium.com/@naglaafouz4) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/naglaa-fouz-7b42a214a/)  
 - 📍 Marseille, France
 
